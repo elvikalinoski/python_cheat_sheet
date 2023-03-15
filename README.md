@@ -4,14 +4,15 @@
 ```var = "valor"```
 
 # Operadores
-| Operação | Exemplo |
-| Adição | + |
-| Subtração | - |
-| Multiplicação | * |
-| Divisão | / |
-| Divisão inteira | // |
-| Modulo Divisão | % |
-| Potenciação | ** |
+Operação | Exemplo
+--------- | ------
+Adição | +
+Subtração | -
+Multiplicação | *
+Divisão | /
+Divisão inteira | //
+Modulo Divisão | %
+Potenciação | **
 
 
 # IF
@@ -65,9 +66,3 @@ while condicao:
 
 ## Dicionário:
 ```{"chave": "valor", "outra_chave": 42}```
-
-
-
-
-
-
